@@ -1,0 +1,73 @@
+[
+  {
+    "id": "text_01",
+    "type": "text",
+    "title": "استغفار",
+    "content": "أستغفر الله العظيم وأتوب إليه"
+  },
+  {
+    "id": "text_02",
+    "type": "text",
+    "title": "تسبيح",
+    "content": "سبحان الله وبحمده، سبحان الله العظيم"
+  },
+  {
+    "id": "text_03",
+    "type": "text",
+    "title": "صلاة على النبي",
+    "content": "اللهم صل وسلم على نبينا محمد"
+  },
+  {
+    "id": "audio_01",
+    "type": "audio",
+    "title": "آية الكرسي (صوتي)",
+    "content": "/audio/ayat_al_kursi.mp3"
+  },
+  {
+    "id": "audio_02",
+    "type": "audio",
+    "title": "الذين يبيتون لربهم سجدا وقياما (صوتي)",
+    "content": "/audio/2919sogada.mp3"
+  },
+ 
+  {
+    "id": "audio_03",
+    "type": "audio",
+    "title": "لا اله الا انت سبحانك اني كنت من الظالمين",
+    "content": "/audio/no_god_but_you_subhanaka_ani_kuntu_min_al_zalimin.ogg"
+  },
+  
+    {
+    "id": "audio_06",
+    "type": "audio",
+    "title": "mp3لا اله الا انت سبحانك اني كنت من الظالمين",
+    "content": "/audio/laelahelaallah.mp3"
+  },
+  {
+    "id": "audio_07",
+    "type": "audio",
+    "title": "الله اكبر (صوتي)",
+    "content": "/audio/allahakbar.wav"
+  },
+ 
+  {
+    "id": "audio_08",
+    "type": "audio",
+    "title": "سبحان الله (صوتي)",
+    "content": "/audio/sob7anallah.wav"
+  },
+  
+    {
+    "id": "audio_09",
+    "type": "audio",
+    "title": "لا اله الا الله (صوتي)",
+    "content": "/audio/laelahelaallah.mp3"
+  }
+
+
+
+
+
+
+]
+
